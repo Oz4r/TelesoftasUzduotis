@@ -1,0 +1,7 @@
+C:\Users\tatol\source\repos\TelesoftasUzduotis\bin\Debug\TelesoftasUzduotis.exe.config
+C:\Users\tatol\source\repos\TelesoftasUzduotis\bin\Debug\TelesoftasUzduotis.exe
+C:\Users\tatol\source\repos\TelesoftasUzduotis\bin\Debug\TelesoftasUzduotis.pdb
+C:\Users\tatol\source\repos\TelesoftasUzduotis\obj\Debug\TelesoftasUzduotis.csprojAssemblyReference.cache
+C:\Users\tatol\source\repos\TelesoftasUzduotis\obj\Debug\TelesoftasUzduotis.csproj.CoreCompileInputs.cache
+C:\Users\tatol\source\repos\TelesoftasUzduotis\obj\Debug\TelesoftasUzduotis.exe
+C:\Users\tatol\source\repos\TelesoftasUzduotis\obj\Debug\TelesoftasUzduotis.pdb
