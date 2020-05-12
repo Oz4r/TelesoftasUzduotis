@@ -13,6 +13,7 @@ Internship homework
 <ul>
   <li>Improve the algorithm</li>
   <li>Improve OOP principles</li>
+  <li>Unit tests</li>
 </ul>
 
 
