@@ -1,0 +1,2 @@
+# TelesoftasUzduotis
+Internship homework
